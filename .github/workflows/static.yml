@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Agile & AI Consulting</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f9; color: #333; }
+header { background: linear-gradient(90deg, #0073e6, #00bfa5); color: white; padding: 20px; text-align: center; }
+nav { display: flex; justify-content: center; background: #005f99; padding: 10px; }
+nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+.container { max-width: 1200px; margin: 20px auto; padding: 20px; background: white; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
+.section { padding: 20px; border-bottom: 1px solid #ccc; }
+h2 { color: #0073e6; }
+footer { background: #005f99; color: white; text-align: center; padding: 15px; margin-top: 20px; }
+</style>
+</head>
+<body>
+<header>
+<h1>Agile & AI Consulting</h1>
+<p>Innovative Lösungen für Unternehmen</p>
+</header>
+
+<nav>
+<a href="#about">Über uns</a>
+<a href="#services">Leistungen</a>
+<a href="#network">AI-Netzwerk</a>
+<a href="#contact">Kontakt</a>
+</nav>
+
+<div class="container">
+<section id="about" class="section">
+<h2>Über uns</h2>
+<p>Wir sind zwei erfahrene Freiberufler, die Unternehmen dabei helfen, agile Methoden und künstliche Intelligenz erfolgreich zu nutzen.</p>
+</section>
+
+<section id="services" class="section">
+<h2>Unsere Leistungen</h2>
+<ul>
+<li>Agile Transformation & Coaching</li>
+<li>AI-Strategieberatung & Implementierung</li>
+<li>Workshops & Schulungen</li>
+<li>Individuelle Beratung für maßgeschneiderte Lösungen</li>
+</ul>
+</section>
+
+<section id="network" class="section">
+<h2>Unser AI-Netzwerk</h2>
+<p>Wir arbeiten mit einem Netzwerk von Fachexperten aus verschiedenen Branchen zusammen, um Ihnen die besten AI-Lösungen anzubieten.</p>
+</section>
+
+<section id="contact" class="section">
+<h2>Kontakt</h2>
+<p>Schreib uns eine E-Mail: <a href="mailto:hallo@lernend-fuehren.de">hallo@lernend-fuehren.de</a></p>
+</section>
+</div>
+
+<footer>
+<p>&copy; 2025 Agile & AI Consulting - Alle Rechte vorbehalten</p>
+</footer>
+</body>
+</html>
